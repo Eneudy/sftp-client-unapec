@@ -1,0 +1,22 @@
+C:\Users\Esc Group - Eneudy\Desktop\lab07-test\NetCoreSftpClient\bin\Debug\netcoreapp2.1\NetCoreSftpClient.deps.json
+C:\Users\Esc Group - Eneudy\Desktop\lab07-test\NetCoreSftpClient\bin\Debug\netcoreapp2.1\NetCoreSftpClient.runtimeconfig.json
+C:\Users\Esc Group - Eneudy\Desktop\lab07-test\NetCoreSftpClient\bin\Debug\netcoreapp2.1\NetCoreSftpClient.runtimeconfig.dev.json
+C:\Users\Esc Group - Eneudy\Desktop\lab07-test\NetCoreSftpClient\bin\Debug\netcoreapp2.1\NetCoreSftpClient.dll
+C:\Users\Esc Group - Eneudy\Desktop\lab07-test\NetCoreSftpClient\bin\Debug\netcoreapp2.1\NetCoreSftpClient.pdb
+C:\Users\Esc Group - Eneudy\Desktop\lab07-test\NetCoreSftpClient\obj\Debug\netcoreapp2.1\NetCoreSftpClient.csprojAssemblyReference.cache
+C:\Users\Esc Group - Eneudy\Desktop\lab07-test\NetCoreSftpClient\obj\Debug\netcoreapp2.1\NetCoreSftpClient.csproj.CoreCompileInputs.cache
+C:\Users\Esc Group - Eneudy\Desktop\lab07-test\NetCoreSftpClient\obj\Debug\netcoreapp2.1\NetCoreSftpClient.AssemblyInfoInputs.cache
+C:\Users\Esc Group - Eneudy\Desktop\lab07-test\NetCoreSftpClient\obj\Debug\netcoreapp2.1\NetCoreSftpClient.AssemblyInfo.cs
+C:\Users\Esc Group - Eneudy\Desktop\lab07-test\NetCoreSftpClient\obj\Debug\netcoreapp2.1\NetCoreSftpClient.dll
+C:\Users\Esc Group - Eneudy\Desktop\lab07-test\NetCoreSftpClient\obj\Debug\netcoreapp2.1\NetCoreSftpClient.pdb
+C:\Users\Esc Group - Eneudy\Desktop\Universidad APEC\cuatrimestre_4\INTEGRACION DE APLICACIONES CON TECNOLOGIA PROPIETARIA\9. 28 October - 3 November\lab07-app\NetCoreSftpClient\bin\Debug\netcoreapp2.1\NetCoreSftpClient.deps.json
+C:\Users\Esc Group - Eneudy\Desktop\Universidad APEC\cuatrimestre_4\INTEGRACION DE APLICACIONES CON TECNOLOGIA PROPIETARIA\9. 28 October - 3 November\lab07-app\NetCoreSftpClient\bin\Debug\netcoreapp2.1\NetCoreSftpClient.runtimeconfig.json
+C:\Users\Esc Group - Eneudy\Desktop\Universidad APEC\cuatrimestre_4\INTEGRACION DE APLICACIONES CON TECNOLOGIA PROPIETARIA\9. 28 October - 3 November\lab07-app\NetCoreSftpClient\bin\Debug\netcoreapp2.1\NetCoreSftpClient.runtimeconfig.dev.json
+C:\Users\Esc Group - Eneudy\Desktop\Universidad APEC\cuatrimestre_4\INTEGRACION DE APLICACIONES CON TECNOLOGIA PROPIETARIA\9. 28 October - 3 November\lab07-app\NetCoreSftpClient\bin\Debug\netcoreapp2.1\NetCoreSftpClient.dll
+C:\Users\Esc Group - Eneudy\Desktop\Universidad APEC\cuatrimestre_4\INTEGRACION DE APLICACIONES CON TECNOLOGIA PROPIETARIA\9. 28 October - 3 November\lab07-app\NetCoreSftpClient\bin\Debug\netcoreapp2.1\NetCoreSftpClient.pdb
+C:\Users\Esc Group - Eneudy\Desktop\Universidad APEC\cuatrimestre_4\INTEGRACION DE APLICACIONES CON TECNOLOGIA PROPIETARIA\9. 28 October - 3 November\lab07-app\NetCoreSftpClient\obj\Debug\netcoreapp2.1\NetCoreSftpClient.csprojAssemblyReference.cache
+C:\Users\Esc Group - Eneudy\Desktop\Universidad APEC\cuatrimestre_4\INTEGRACION DE APLICACIONES CON TECNOLOGIA PROPIETARIA\9. 28 October - 3 November\lab07-app\NetCoreSftpClient\obj\Debug\netcoreapp2.1\NetCoreSftpClient.csproj.CoreCompileInputs.cache
+C:\Users\Esc Group - Eneudy\Desktop\Universidad APEC\cuatrimestre_4\INTEGRACION DE APLICACIONES CON TECNOLOGIA PROPIETARIA\9. 28 October - 3 November\lab07-app\NetCoreSftpClient\obj\Debug\netcoreapp2.1\NetCoreSftpClient.AssemblyInfoInputs.cache
+C:\Users\Esc Group - Eneudy\Desktop\Universidad APEC\cuatrimestre_4\INTEGRACION DE APLICACIONES CON TECNOLOGIA PROPIETARIA\9. 28 October - 3 November\lab07-app\NetCoreSftpClient\obj\Debug\netcoreapp2.1\NetCoreSftpClient.AssemblyInfo.cs
+C:\Users\Esc Group - Eneudy\Desktop\Universidad APEC\cuatrimestre_4\INTEGRACION DE APLICACIONES CON TECNOLOGIA PROPIETARIA\9. 28 October - 3 November\lab07-app\NetCoreSftpClient\obj\Debug\netcoreapp2.1\NetCoreSftpClient.dll
+C:\Users\Esc Group - Eneudy\Desktop\Universidad APEC\cuatrimestre_4\INTEGRACION DE APLICACIONES CON TECNOLOGIA PROPIETARIA\9. 28 October - 3 November\lab07-app\NetCoreSftpClient\obj\Debug\netcoreapp2.1\NetCoreSftpClient.pdb

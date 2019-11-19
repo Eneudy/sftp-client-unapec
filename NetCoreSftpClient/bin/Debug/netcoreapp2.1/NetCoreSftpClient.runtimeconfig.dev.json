@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Esc Group - Eneudy\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Esc Group - Eneudy\\.nuget\\packages",
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ]
+  }
+}

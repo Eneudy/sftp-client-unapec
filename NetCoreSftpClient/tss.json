@@ -1,0 +1,23 @@
+[
+	{
+		"claveNomina": "001",
+		"numeroDocumento": "40224667863",
+		"salario": 35000.00, 
+		"primerNombre": "Juan", 
+		"primerApellido": "Lantigua"
+	},
+	{
+		"claveNomina": "002",
+		"numeroDocumento": "40224667864",
+		"salario": 50000.00, 
+		"primerNombre": "Deury", 
+		"primerApellido": "Pichardo"
+	},
+	{
+		"claveNomina": "003",
+		"numeroDocumento": "40224667865",
+		"salario": 40000.00, 
+		"primerNombre": "Luis", 
+		"primerApellido": "Zabala"
+	}
+]

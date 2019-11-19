@@ -1,0 +1,8 @@
+venv/
+*.pyc
+
+project.lock.json
+nupkg/
+
+# Visual Studio Code
+.vscode
